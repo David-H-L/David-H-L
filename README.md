@@ -8,7 +8,7 @@
   <img src="https://images.sftcdn.net/images/t_app-icon-m/p/4c307302-96da-11e6-9865-00163ec9f5fa/3398960882/postgresql-icon.png" alt="logo PostgreSQL" width="60px">
   <img src="https://media.licdn.com/dms/image/D4D12AQHqAKIE5AGqsw/article-cover_image-shrink_600_2000/0/1673342962670?e=2147483647&v=beta&t=C8P9ELHn30uKrPTjDhAoIg5zRkGN21Hi8pNzP9qSeN0" alt="logo PostgreSQL" width="60px">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhoVwuJmtF1Lu4t9WcsZ7fESV9KdIQ7pVHw&s" alt="logo Laravel" width="60px">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgangstar.fandom.com%2Fes%2Fwiki%2FSistema_Java&psig=AOvVaw24EnYFiqMTfQZDCzk9d0Ra&ust=1736552267583000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICN373n6YoDFQAAAAAdAAAAABAR" alt="logo java" width="60px">
+  <img src="https://static.wikia.nocookie.net/gangstar/images/1/1f/Sistema_Java.jpg/revision/latest?cb=20130602215029&path-prefix=es" alt="logo java" width="60px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="logo javascript" width="60px">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTctQmj1y8wEa_6EJ9mizfcxs-cQ1tAOa8e-g&s" alt="logo html" width="60px">
   <img src="https://beecrowd.com/wp-content/uploads/2024/04/2022-11-10-CSS.jpg" alt="logo css" width="60px">

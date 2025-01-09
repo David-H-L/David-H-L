@@ -4,7 +4,8 @@
 🌱 Siempre aprendo algo nuevo <br/>
 🚀 Mis tecnoligias favoritas: <br/>
 <div align="left">
-  <img src="https://w7.pngwing.com/pngs/685/975/png-transparent-postgresql-original-logo-icon-thumbnail.png"/>
+  <img width=12px src="https://w7.pngwing.com/pngs/685/975/png-transparent-postgresql-original-logo-icon-thumbnail.png" alt="logo posgreSQL"/>
+  
 </div>
 <!--
 **DavidHuancaLedezma/DavidHuancaLedezma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

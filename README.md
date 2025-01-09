@@ -9,11 +9,11 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZUQ0S9aW9VxAOwp_RaCewyplp0bWqK145eg&s" alt="logo mySQL" width="60px">
   <img src="https://media.licdn.com/dms/image/D4D12AQHqAKIE5AGqsw/article-cover_image-shrink_600_2000/0/1673342962670?e=2147483647&v=beta&t=C8P9ELHn30uKrPTjDhAoIg5zRkGN21Hi8pNzP9qSeN0" alt="logo PostgreSQL" width="60px">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhoVwuJmtF1Lu4t9WcsZ7fESV9KdIQ7pVHw&s" alt="logo Laravel" width="60px">
-  <img src="https://static.wikia.nocookie.net/gangstar/images/1/1f/Sistema_Java.jpg/revision/latest?cb=20130602215029&path-prefix=es" alt="logo java" width="60px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="logo javascript" width="60px">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTctQmj1y8wEa_6EJ9mizfcxs-cQ1tAOa8e-g&s" alt="logo html" width="60px">
   <img src="https://www.jasoft.org/Blog/image.axd?picture=/2017/css3logo.png" alt="logo css" width="60px">
   <img src="https://thumbs.dreamstime.com/b/logotipo-de-python-es-un-lenguaje-programaci%C3%B3n-interpretado-alto-nivel-y-prop%C3%B3sito-general-la-filosof%C3%ADa-dise%C3%B1o-pythons-204759400.jpg" alt="python" width="60px">
+  <img src="https://static.wikia.nocookie.net/gangstar/images/1/1f/Sistema_Java.jpg/revision/latest?cb=20130602215029&path-prefix=es" alt="logo java" width="60px">
 
   
 </div>

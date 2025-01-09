@@ -4,21 +4,11 @@
 🌱 Siempre aprendo algo nuevo <br/>
 🚀 Mis tecnoligias favoritas: <br/>
 
-<style>
-    .contenedor-imagenes{
-      display: flex;
-      justify-content: center;
-    }
-    .imagen{
-        border-radius: 8px;
-    }
-</style>
-
-  <div class="contenedor-imagenes">
-      <img class="imagen" width=60px src="https://images.sftcdn.net/images/t_app-icon-m/p/4c307302-96da-11e6-9865-00163ec9f5fa/3398960882/postgresql-icon.png" alt="logo posgreSQL"/>
-      <img class="imagen" width=60px src="https://media.licdn.com/dms/image/D4D12AQHqAKIE5AGqsw/article-cover_image-shrink_600_2000/0/1673342962670?e=2147483647&v=beta&t=C8P9ELHn30uKrPTjDhAoIg5zRkGN21Hi8pNzP9qSeN0" alt="logo posgreSQL"/>
-      <img class="imagen" width=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhoVwuJmtF1Lu4t9WcsZ7fESV9KdIQ7pVHw&s" alt="logo Laravel"/>
-  </div>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://images.sftcdn.net/images/t_app-icon-m/p/4c307302-96da-11e6-9865-00163ec9f5fa/3398960882/postgresql-icon.png" alt="logo PostgreSQL" width="60px" style="border-radius: 8px;">
+  <img src="https://media.licdn.com/dms/image/D4D12AQHqAKIE5AGqsw/article-cover_image-shrink_600_2000/0/1673342962670?e=2147483647&v=beta&t=C8P9ELHn30uKrPTjDhAoIg5zRkGN21Hi8pNzP9qSeN0" alt="logo PostgreSQL" width="60px" style="border-radius: 8px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhoVwuJmtF1Lu4t9WcsZ7fESV9KdIQ7pVHw&s" alt="logo Laravel" width="60px" style="border-radius: 8px;">
+</div>
 
 
 

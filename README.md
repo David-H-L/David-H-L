@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+👨‍💻 Desarrollador apasionado por la tecnoligia
+📚 Actualmete estudiando en la Universidad Mayor de San Simon
+🌱 Siempre aprendo algo nuevo
+🚀 Mis tecnoligias favoritas:
+<div align="left">
+  <img src="https://w7.pngwing.com/pngs/685/975/png-transparent-postgresql-original-logo-icon-thumbnail.png"/>
+</div>
 <!--
 **DavidHuancaLedezma/DavidHuancaLedezma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

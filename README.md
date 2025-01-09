@@ -14,7 +14,7 @@
   <img src="https://www.jasoft.org/Blog/image.axd?picture=/2017/css3logo.png" alt="logo css" width="60px">
   <img src="https://thumbs.dreamstime.com/b/logotipo-de-python-es-un-lenguaje-programaci%C3%B3n-interpretado-alto-nivel-y-prop%C3%B3sito-general-la-filosof%C3%ADa-dise%C3%B1o-pythons-204759400.jpg" alt="python" width="60px">
   <img src="https://static.wikia.nocookie.net/gangstar/images/1/1f/Sistema_Java.jpg/revision/latest?cb=20130602215029&path-prefix=es" alt="logo java" width="60px">
-
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHjk8XfQVfhAmzE4Mq66QZUTKvXSIjPUiyLA&s" alt="logo git" width="60px">
   
 </div>
 

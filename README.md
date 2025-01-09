@@ -1,8 +1,8 @@
 ## Hi there 👋
-👨‍💻 Desarrollador apasionado por la tecnoligia
-📚 Actualmete estudiando en la Universidad Mayor de San Simon
-🌱 Siempre aprendo algo nuevo
-🚀 Mis tecnoligias favoritas:
+👨‍💻 Desarrollador apasionado por la tecnoligia <br/>
+📚 Actualmete estudiando en la Universidad Mayor de San Simon <br/>
+🌱 Siempre aprendo algo nuevo <br/>
+🚀 Mis tecnoligias favoritas: <br/>
 <div align="left">
   <img src="https://w7.pngwing.com/pngs/685/975/png-transparent-postgresql-original-logo-icon-thumbnail.png"/>
 </div>

@@ -10,7 +10,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhoVwuJmtF1Lu4t9WcsZ7fESV9KdIQ7pVHw&s" alt="logo Laravel" width="60px">
   <img src="https://miro.medium.com/v2/resize:fit:2560/1*2XrX0fP0htyTCah7AglTig.jpeg" alt="logo java" width="60px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="logo javascript" width="60px">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.twistedbrackets.com%2Ftag%2Fhtml%2F&psig=AOvVaw0kw_GA7TYeuWwaRdw6f4hy&ust=1736551909727000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDW_Znm6YoDFQAAAAAdAAAAABAJ" alt="logo html" width="60px">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTctQmj1y8wEa_6EJ9mizfcxs-cQ1tAOa8e-g&s" alt="logo html" width="60px">
   <img src="https://beecrowd.com/wp-content/uploads/2024/04/2022-11-10-CSS.jpg" alt="logo css" width="60px">
   <img src="https://thumbs.dreamstime.com/b/logotipo-de-python-es-un-lenguaje-programaci%C3%B3n-interpretado-alto-nivel-y-prop%C3%B3sito-general-la-filosof%C3%ADa-dise%C3%B1o-pythons-204759400.jpg" alt="python" width="60px">
 </div>

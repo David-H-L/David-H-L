@@ -1,4 +1,8 @@
 ## Hi there 👋
+<div align="center">
+  <img src="https://i.pinimg.com/originals/9d/1f/82/9d1f82cc324e498dd5127a6ed0296dac.gif" width="200px">
+</div>
+
 👨‍💻 Desarrollador apasionado por la tecnoligia <br/>
 📚 Actualmete estudiando en la Universidad Mayor de San Simon <br/>
 🌱 Siempre aprendo algo nuevo <br/>

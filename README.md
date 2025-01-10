@@ -3,9 +3,9 @@
 </div>
 
 👨‍💻 Desarrollador apasionado por la tecnoligia <br/>
-📚 Actualmete estudiando en la Universidad Mayor de San Simon <br/>
-🌱 Siempre aprendo algo nuevo <br/>
-🚀 Mis tecnoligias: <br/>
+📚 Actualmete estudiando en la Universidad<br/>
+🌱 Siempre aprendo algo nuevo, actualmente explorando el mundo del machine learning<br/>
+🚀 Mis tecnoligías: <br/>
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://images.sftcdn.net/images/t_app-icon-m/p/4c307302-96da-11e6-9865-00163ec9f5fa/3398960882/postgresql-icon.png" alt="logo PostgreSQL" width="60px">

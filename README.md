@@ -7,7 +7,7 @@
 🌱 Siempre aprendo algo nuevo, actualmente explorando el mundo del machine learning<br/>
 🚀 Mis tecnoligías: <br/>
 
-<div style="display: flex; justify-content: center; gap: 50px;">
+<div style="display: flex; justify-content: center;">
   <img src="https://images.sftcdn.net/images/t_app-icon-m/p/4c307302-96da-11e6-9865-00163ec9f5fa/3398960882/postgresql-icon.png" alt="logo PostgreSQL" width="60px">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZUQ0S9aW9VxAOwp_RaCewyplp0bWqK145eg&s" alt="logo mySQL" width="60px">
   <img src="https://media.licdn.com/dms/image/D4D12AQHqAKIE5AGqsw/article-cover_image-shrink_600_2000/0/1673342962670?e=2147483647&v=beta&t=C8P9ELHn30uKrPTjDhAoIg5zRkGN21Hi8pNzP9qSeN0" alt="logo PostgreSQL" width="60px">

@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/9d/1f/82/9d1f82cc324e498dd5127a6ed0296dac.gif" width="300px">
 </div>
 
-👨‍💻 Desarrollador apasionado por la tecnoligia <br/>
+👨‍💻 Desarrollador apasionado por la tecnología <br/>
 📚 Actualmete estudiando en la Universidad<br/>
 🌱 Siempre aprendo algo nuevo, actualmente explorando el mundo del machine learning<br/>
 🚀 Mis tecnoligías: <br/>

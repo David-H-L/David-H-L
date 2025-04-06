@@ -4,7 +4,7 @@
 
 👨‍💻 Desarrollador apasionado por la tecnología <br/>
 📚 Actualmete estudiando en la Universidad<br/>
-🌱 Siempre aprendo algo nuevo, actualmente explorando el mundo de la visión artificial<br/>
+🌱 Siempre aprendo algo nuevo<br/>
 🚀 Mis tecnoligías: <br/>
 
 <div style="display: flex; justify-content: center;">

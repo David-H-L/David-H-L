@@ -1,4 +1,4 @@
-Etapa 1 Linux
+Etapa 1 Linux 🐧 ✅
 <br>
 Etapa 2 Git-Github
 <br>

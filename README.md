@@ -6,6 +6,8 @@ Etapa 2 Git-Github 🐙 ✅
 <br>
 Etapa 3 Servidores 🗄️ ✅
 <br>
-Receso: Entrevistas ⏳
+Receso: Entrevistas ✅
+<br>
+Selección de areas ⏳
 <br>
 Etapa 4 Proyecto 👨‍💻 ⏳

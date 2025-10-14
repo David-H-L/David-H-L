@@ -41,4 +41,6 @@
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+### 🚀 More about me: ![David[HL]](https://portafolio-david-hl.netlify.app/)
+
 

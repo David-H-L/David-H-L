@@ -42,8 +42,10 @@
 </p>
 
 ### Tools
-<img alt="Git" src="https://img.shields.io/badge/GIT-F05032?logo=git&logoColor=white&style=for-the-badge" />
-<img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" />
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/GIT-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" />
+</p>
 
 ### ➕ More about me: [David[HL]](https://portafolio-david-hl.netlify.app/)
 

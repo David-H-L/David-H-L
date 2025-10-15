@@ -41,6 +41,10 @@
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+### Tools
+<img alt="Git" src="https://img.shields.io/badge/GIT-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" />
+
 ### ➕ More about me: [David[HL]](https://portafolio-david-hl.netlify.app/)
 
 

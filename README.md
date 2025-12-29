@@ -1,16 +1,43 @@
-<h1 align="center"> Hi, I'm David! </h1>
+<h1 align="center"> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+David+👨‍💻;+Systems+Engineering+Student;+Junior+Full-Stack+Developer;" />
+</h1>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=David-H-L&theme=react&hide_border=false" height="150" />
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=David-H-L&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-H-L&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
-  </p>
 </p>
 
 ---
 
-## What do I do?
+
+
+<picture><img align="right" alt="avatar" src="./img/avatar.png" width = 250px></picture>
+
+# **🚀 About me**
+
+Hello, I'm a systems engineering student apassionate about technology, always learning something new, and currently focused on English to grow professionally.
+
+## **📚 Education**
+
+- 🏫 High School - Colegio Nacional Bolívar
+- 🎓 Systems Engineering - Universidad Mayor de San Simón
+- 🇺🇸 English Language Studies – CBA (Centro Boliviano Americano)
+
+## **🛡️ Military Service**
+
+ - 18th Airborne Infantry Regiment Victoria - CITE
+
+## **🌐 Social networks**
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidhuancaledezma/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/davidhuancaledezma/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Gatofullstack)
+
+</div> 
+
+---
+
+## 💻 Technologies 
 ### Languages
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -47,12 +74,11 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" />
 </p>
 
-### ➕ More about me: [David[HL]](https://portafolio-david-hl.netlify.app/)
+## ➕ More?
+- Check out my personal [website David[HL]](https://portafolio-david-hl.netlify.app/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoDemVel/jodemvel/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoDemVel/jodemvel/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/JoDemVel/jodemvel/output/github-snake.svg" />
 </picture>
-
-

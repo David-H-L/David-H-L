@@ -11,7 +11,7 @@
 
 
 
-<picture><img align="right" alt="avatar" src="./img/avatar.png" width = 250px></picture>
+<picture><img align="right" alt="avatar" src="./img/avatar.png" width = 280px></picture>
 
 # **🚀 About me**
 
